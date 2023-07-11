@@ -1,1 +1,3 @@
-# home
+# home 
+hi everyone
+hello everyone 
