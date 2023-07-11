@@ -3,4 +3,4 @@ hi everyone
 hello everyone 
 by by 
 take care 
-how are you
+how are you all
